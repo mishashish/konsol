@@ -1,0 +1,6 @@
+pygame>=2.5
+vgamepad>=0.1.0
+pystray>=0.19
+pillow>=10
+pyinstaller>=6
+customtkinter>=5.2

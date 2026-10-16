@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.cursor/
+build/
+dist/
+*.spec
+konsol.ico
+*.log
+.env
+*.msi
